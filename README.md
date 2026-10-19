@@ -86,3 +86,12 @@ Ask questions, share feedback, and connect with other DevBoxer users.
 - 🌐 [Website](https://www.devboxer.com)
 - 📖 [Documentation](https://www.devboxer.com/docs)
 - 💬 [Discord](https://discord.gg/e8ZSUWks5M)
+
+## 👋 Hello World
+
+A minimal Python example lives in `hello.py`.
+
+```bash
+make run   # prints "Hello, World!"
+make test  # runs the pytest suite
+```
