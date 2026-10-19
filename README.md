@@ -75,6 +75,8 @@ When filing a bug, including the following helps us fix it faster:
 - Steps to reproduce
 - Browser / OS / CLI version if relevant
 
+Want to contribute? See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## 💬 Community
 
 [![Discord](https://img.shields.io/badge/Join_us_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/e8ZSUWks5M)
